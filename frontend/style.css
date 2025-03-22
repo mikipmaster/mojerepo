@@ -1,0 +1,129 @@
+/* Style podstawowe */
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background: #f4f4f4;
+  transition: background 0.5s, color 0.5s;
+}
+
+header {
+  background: linear-gradient(90deg, #1abc9c, #16a085);
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.nav-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.nav-menu li {
+  margin: 0 15px;
+  padding: 10px 20px;
+  background: #2980b9;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.3s;
+}
+
+.nav-menu li:hover {
+  background: #3498db;
+  transform: scale(1.1);
+}
+
+main {
+  padding: 20px;
+}
+
+.active {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+
+.image-container {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.image-container img {
+  max-width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: transform 0.3s;
+}
+
+.image-container img:hover {
+  transform: scale(1.05);
+}
+
+/* Formy */
+form {
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+form label {
+  display: block;
+  margin: 10px 0 5px;
+  color: #333;
+}
+
+form input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+form button {
+  background: #27ae60;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+  font-size: 16px;
+}
+
+form button:hover {
+  background: #2ecc71;
+}
+
+/* Motywy kolorystyczne */
+body.light-theme {
+  background: #f4f4f4;
+  color: #333;
+}
+
+body.dark-theme {
+  background: #2c3e50;
+  color: #ecf0f1;
+}
+
+body.dark-theme header {
+  background: linear-gradient(90deg, #34495e, #2c3e50);
+}
+
+body.dark-theme form {
+  background: #34495e;
+  color: #ecf0f1;
+}
+
+body.dark-theme form input {
+  background: #2c3e50;
+  color: #ecf0f1;
+  border: 1px solid #555;
+}

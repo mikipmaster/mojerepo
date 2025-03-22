@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Aplikacja do Śledzenia Budżetu Domowego</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Śledzenie Budżetu Domowego</h1>
+    <nav>
+      <ul class="nav-menu">
+        <li data-section="homeSection">Strona Główna</li>
+        <li data-section="transactionsSection">Transakcje</li>
+        <li data-section="addSection">Dodaj</li>
+        <li data-section="deleteSection">Usuń</li>
+        <li data-section="settingsSection">Ustawienia</li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="homeSection" class="active">
+      <h2>Witamy w Aplikacji!</h2>
+      <p>Monitoruj swój budżet domowy z zaawansowanymi efektami wizualnymi.</p>
+      <div class="image-container">
+        <img src="images/logo.png" alt="Logo Budżetu">
+      </div>
+    </section>
+    <section id="transactionsSection" class="hidden">
+      <h2>Lista Transakcji</h2>
+      <ul id="transactionItems">
+        <!-- Transakcje będą dynamicznie ładowane -->
+      </ul>
+    </section>
+    <section id="addSection" class="hidden">
+      <h2>Dodaj Transakcję</h2>
+      <form id="addTransactionForm">
+        <label for="transactionName">Nazwa transakcji:</label>
+        <input type="text" id="transactionName" name="transactionName" required>
+        <label for="amount">Kwota:</label>
+        <input type="number" id="amount" name="amount" required step="0.01">
+        <label for="date">Data:</label>
+        <input type="date" id="date" name="date" required>
+        <button type="submit">Dodaj Transakcję</button>
+      </form>
+    </section>
+    <section id="deleteSection" class="hidden">
+      <h2>Usuń Transakcję</h2>
+      <form id="deleteTransactionForm">
+        <label for="transactionId">ID Transakcji:</label>
+        <input type="number" id="transactionId" name="transactionId" required>
+        <button type="submit">Usuń Transakcję</button>
+      </form>
+    </section>
+    <section id="settingsSection" class="hidden">
+      <h2>Ustawienia</h2>
+      <p>Wybierz motyw kolorystyczny:</p>
+      <button class="theme-btn" data-theme="light">Jasny</button>
+      <button class="theme-btn" data-theme="dark">Ciemny</button>
+    </section>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
