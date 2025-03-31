@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Kalendarz>
+<Contacts>
+<Contact><FirstName>Agnieszka</FirstName><LastName>Luk</LastName><PhoneNumber>741852963</PhoneNumber><Category>Znajomi</Category></Contact>
+<Contact><FirstName>Anna</FirstName><LastName>Nowak</LastName><PhoneNumber>765987453</PhoneNumber><Category>Znajomi</Category></Contact>
+<Contact><FirstName>Ewa</FirstName><LastName>Malinowska</LastName><PhoneNumber>321654987</PhoneNumber><Category>Rodzina</Category></Contact>
+<Contact><FirstName>Jan</FirstName><LastName>Kowalski</LastName><PhoneNumber>212321312</PhoneNumber><Category>Rodzina</Category></Contact>
+<Contact><FirstName>Kacper</FirstName><LastName>Kazmierczak</LastName><PhoneNumber>987567456</PhoneNumber><Category>Praca</Category></Contact>
+<Contact><FirstName>Katarzyna</FirstName><LastName>Lis</LastName><PhoneNumber>963852741</PhoneNumber><Category>Inne</Category></Contact>
+<Contact><FirstName>Marek</FirstName><LastName>Kwiatkowski</LastName><PhoneNumber>852741963</PhoneNumber><Category>Rodzina</Category></Contact>
+<Contact><FirstName>Michal</FirstName><LastName>Polujanski</LastName><PhoneNumber>123456789</PhoneNumber><Category>Znajomi</Category></Contact>
+<Contact><FirstName>Piotr</FirstName><LastName>Zajac</LastName><PhoneNumber>789456123</PhoneNumber><Category>Praca</Category></Contact>
+<Contact><FirstName>Tomasz</FirstName><LastName>Wilk</LastName><PhoneNumber>654987321</PhoneNumber><Category>Szkoła</Category></Contact>
+<Contact><FirstName>Piotr</FirstName><LastName>Kowalski</LastName><PhoneNumber>123123123</PhoneNumber><Category>null</Category></Contact>
+</Contacts>
+<Events>
+<Event><Title>Wykład</Title><Date>Mon Nov 11 00:00:00 CET 2024</Date></Event>
+<Event><Title>Projekt</Title><Date>Tue Nov 12 00:00:00 CET 2024</Date></Event>
+<Event><Title>Imieniny</Title><Date>Wed Nov 13 00:00:00 CET 2024</Date></Event>
+<Event><Title>Urodziny</Title><Date>Thu Nov 14 00:00:00 CET 2024</Date></Event>
+<Event><Title>Spotkanie biznesowe</Title><Date>Fri Nov 15 00:00:00 CET 2024</Date></Event>
+<Event><Title>Warsztaty</Title><Date>Sat Nov 16 00:00:00 CET 2024</Date></Event>
+<Event><Title>Konferencja</Title><Date>Sun Dec 01 00:00:00 CET 2024</Date></Event>
+<Event><Title>Kolacja wigilijna</Title><Date>Tue Dec 24 00:00:00 CET 2024</Date></Event>
+<Event><Title>Wakacje</Title><Date>Fri Jun 20 00:00:00 CEST 2025</Date></Event>
+<Event><Title>Ślub</Title><Date>Sat Jul 05 00:00:00 CEST 2025</Date></Event>
+<Event><Title>Spotkanie</Title><Date>Sun Nov 20 00:00:00 CET 124</Date></Event>
+</Events>
+</Kalendarz>

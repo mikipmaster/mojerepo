@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Kalendarz>
+<Contacts>
+<Contact><Name>Jan Kowalski</Name><PhoneNumber>212321312</PhoneNumber></Contact>
+<Contact><Name>Anna Nowak</Name><PhoneNumber>765987453</PhoneNumber></Contact>
+<Contact><Name>Kacper Kazmierczak</Name><PhoneNumber>987567456</PhoneNumber></Contact>
+<Contact><Name>Michal Polujanski</Name><PhoneNumber>123456789</PhoneNumber></Contact>
+<Contact><Name>Ewa Malinowska</Name><PhoneNumber>321654987</PhoneNumber></Contact>
+<Contact><Name>Tomasz Wilk</Name><PhoneNumber>654987321</PhoneNumber></Contact>
+<Contact><Name>Piotr Zajac</Name><PhoneNumber>789456123</PhoneNumber></Contact>
+<Contact><Name>Katarzyna Lis</Name><PhoneNumber>963852741</PhoneNumber></Contact>
+<Contact><Name>Agnieszka Luk</Name><PhoneNumber>741852963</PhoneNumber></Contact>
+<Contact><Name>Marek Kwiatkowski</Name><PhoneNumber>852741963</PhoneNumber></Contact>
+</Contacts>
+<Events>
+<Event><Title>Urodziny</Title><Date>Thu Nov 14 00:00:00 CET 2024</Date></Event>
+<Event><Title>Wykład</Title><Date>Mon Nov 11 00:00:00 CET 2024</Date></Event>
+<Event><Title>Projekt</Title><Date>Tue Nov 12 00:00:00 CET 2024</Date></Event>
+<Event><Title>Imieniny</Title><Date>Wed Nov 13 00:00:00 CET 2024</Date></Event>
+<Event><Title>Spotkanie biznesowe</Title><Date>Fri Nov 15 00:00:00 CET 2024</Date></Event>
+<Event><Title>Warsztaty</Title><Date>Sat Nov 16 00:00:00 CET 2024</Date></Event>
+<Event><Title>Wakacje</Title><Date>Fri Jun 20 00:00:00 CEST 2025</Date></Event>
+<Event><Title>Ślub</Title><Date>Sat Jul 05 00:00:00 CEST 2025</Date></Event>
+<Event><Title>Konferencja</Title><Date>Sun Dec 01 00:00:00 CET 2024</Date></Event>
+<Event><Title>Kolacja wigilijna</Title><Date>Tue Dec 24 00:00:00 CET 2024</Date></Event>
+</Events>
+</Kalendarz>

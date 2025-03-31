@@ -1,0 +1,11 @@
+Imie: Agnieszka, Nazwisko: Luk, Telefon: 741852963, Kategoria: Znajomi
+Imie: Anna, Nazwisko: Nowak, Telefon: 765987453, Kategoria: Znajomi
+Imie: Ewa, Nazwisko: Malinowska, Telefon: 321654987, Kategoria: Rodzina
+Imie: Jan, Nazwisko: Kowalski, Telefon: 212321312, Kategoria: Rodzina
+Imie: Kacper, Nazwisko: Kazmierczak, Telefon: 987567456, Kategoria: Praca
+Imie: Katarzyna, Nazwisko: Lis, Telefon: 963852741, Kategoria: Inne
+Imie: Marek, Nazwisko: Kwiatkowski, Telefon: 852741963, Kategoria: Rodzina
+Imie: Michal, Nazwisko: Polujanski, Telefon: 123456789, Kategoria: Znajomi
+Imie: Piotr, Nazwisko: Zajac, Telefon: 789456123, Kategoria: Praca
+Imie: Tomasz, Nazwisko: Wilk, Telefon: 654987321, Kategoria: Szkoła
+Imie: Piotr, Nazwisko: Kowalski, Telefon: 123123123, Kategoria: null
